@@ -1,2 +1,56 @@
-# india-ngo-data-collection
-Structured dataset of 10 NGOs in India across sectors (Education, Healthcare, Women Empowerment, Environment, Agriculture). Includes Excel tables with NGO details, cleaned data, and automation formulas for analysis.
+# 📊 NGO Research & Data Collection (Excel)
+
+✨ Internship Task 1 — Structured dataset of 10 NGOs in India across diverse social sectors including Education, Healthcare, Women Empowerment, Environmental Conservation, and Agriculture.  
+
+---
+
+## 𝄜 Final Dataset Excel File
+This is my Excel file containing the NGO dataset: [NGO Research Dataset.xlsx](link-to-your-file)
+
+---
+
+## 📊 Project Overview
+This project involved researching and documenting **10 NGOs in India** across multiple social sectors.  
+The goal was to build a **structured, cleaned, and automated dataset** that highlights each NGO’s mission, programs, and impact.  
+
+The dataset captures:  
+- NGO Name  
+- Year of Establishment  
+- Founder(s)  
+- Mission & Vision  
+- Key Programs/Projects  
+- Area of Operation  
+- Website & Social Media Links  
+- Impact Statistics  
+- Contact Information  
+- Funding Sources  
+
+---
+
+## 📂 Dataset
+- NGOs selected from **Education, Healthcare, Women Empowerment, Environment, and Agriculture** sectors.  
+- Data collected from official websites, government portals, and credible NGO directories.  
+- Standardized formats for years (YYYY), contact info, and clickable hyperlinks for websites/social media.  
+
+---
+
+## 🎯 Focus Areas
+- **Data Cleaning** → Standardizing formats (years, links, contact info).  
+- **Automation** → Formulas & validation to auto‑update counts and sector distribution.  
+- **Analysis** → Identifying common challenges, similarities/differences, and sector participation trends.  
+
+---
+
+## ✨ Features
+- Structured Excel table with clear headers.  
+- Clickable hyperlinks for websites and social media.  
+- Automated formulas for NGO counts per sector.  
+- Clean, minimal design emphasizing readability and organization.  
+
+---
+
+## 📸 Dataset Preview
+*(Insert screenshot of your Excel table here — cropped to show headers + a few NGO rows)*
+
+---
+
