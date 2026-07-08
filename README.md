@@ -56,8 +56,9 @@ The dataset captures:
 ---
 
 ## GIF Demo
-
-
+<img width="1878" height="874" alt="ImAmigos_1" src="https://github.com/user-attachments/assets/b9acd985-cc9d-45de-8600-488cf4611d9d" />
+-------------------
+<img width="1654" height="870" alt="ImAmigos_2" src="https://github.com/user-attachments/assets/586ff5ee-c7cc-44bc-a57c-f75798b338d4" />
 
 ---
 
