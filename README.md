@@ -5,7 +5,8 @@
 ---
 
 ## 𝄜 Final Dataset Excel File
-This is my Excel file containing the NGO dataset: [NGO Research Dataset.xlsx](link-to-your-file)
+This is my Excel file containing the NGO dataset: [InAmigos Project.xlsx](https://github.com/user-attachments/files/29813354/InAmigos.Project.xlsx)
+
 
 ---
 
@@ -56,8 +57,15 @@ The dataset captures:
 ---
 
 ## GIF Demo
+Left_Part of the DataSet
 <img width="1878" height="874" alt="ImAmigos_1" src="https://github.com/user-attachments/assets/b9acd985-cc9d-45de-8600-488cf4611d9d" />
--------------------
+
+
+
+
+
+
+Right Part of the Dataset
 <img width="1654" height="870" alt="ImAmigos_2" src="https://github.com/user-attachments/assets/586ff5ee-c7cc-44bc-a57c-f75798b338d4" />
 
 ---
