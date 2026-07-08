@@ -1,3 +1,4 @@
+<img width="1860" height="218" alt="InAmigos_3" src="https://github.com/user-attachments/assets/361378e6-e2c2-4ad9-97f3-9f388fee301a" />
 # 📊 NGO Research & Data Collection (Excel)
 
 ✨ Internship Task 1 — Structured dataset of 10 NGOs in India across diverse social sectors including Education, Healthcare, Women Empowerment, Environmental Conservation, and Agriculture.  
@@ -59,14 +60,21 @@ The dataset captures:
 ## GIF Demo
 Left_Part of the DataSet
 <img width="1878" height="874" alt="ImAmigos_1" src="https://github.com/user-attachments/assets/b9acd985-cc9d-45de-8600-488cf4611d9d" />
-
-
-
-
-
-
+|
+|
+|
+|
+|
 Right Part of the Dataset
 <img width="1654" height="870" alt="ImAmigos_2" src="https://github.com/user-attachments/assets/586ff5ee-c7cc-44bc-a57c-f75798b338d4" />
+|
+|
+|
+|
+|
+Last 2 columsn of the Dataset
+<img width="1860" height="218" alt="InAmigos_3" src="https://github.com/user-attachments/assets/7d49a944-ea9a-4a27-9478-5e86db7ab000" />
+
 
 ---
 
