@@ -50,7 +50,14 @@ The dataset captures:
 ---
 
 ## 📸 Dataset Preview
-*(Insert screenshot of your Excel table here — cropped to show headers + a few NGO rows)*
+<img width="1872" height="871" alt="Screenshot 2026-07-08 224113" src="https://github.com/user-attachments/assets/a27a95ed-c93a-4c70-897f-9d1415fadb58" />
+<img width="1652" height="877" alt="Screenshot 2026-07-08 224136" src="https://github.com/user-attachments/assets/d421dbf7-17d9-40ed-898a-3669a05586b2" />
+
+---
+
+## GIF Demo
+
+
 
 ---
 
