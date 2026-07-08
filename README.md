@@ -1,4 +1,3 @@
-<img width="1860" height="218" alt="InAmigos_3" src="https://github.com/user-attachments/assets/361378e6-e2c2-4ad9-97f3-9f388fee301a" />
 # 📊 NGO Research & Data Collection (Excel)
 
 ✨ Internship Task 1 — Structured dataset of 10 NGOs in India across diverse social sectors including Education, Healthcare, Women Empowerment, Environmental Conservation, and Agriculture.  
